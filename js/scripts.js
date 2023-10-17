@@ -169,7 +169,7 @@ $( document ).ready(function() {
         scrollTo = servicesSection;
       } else if(btnId == 'team-menu') {
         scrollTo = teamSection;
-      } else if(btnId == 'portfolio-menu') {
+      } else if(btnId == 'port-menu') {
         scrollTo = portfolioSection;
       } else if(btnId == 'contact-menu') {
         scrollTo = contactSection;
